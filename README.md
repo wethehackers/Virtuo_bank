@@ -1,4 +1,4 @@
-# Virtuo_bank
+# Virtuo Bank
 
 Developed by:
 - Aakash Nair (Team Lead)
