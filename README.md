@@ -7,11 +7,12 @@ Developed by:
 - Hina Fathima (Back End)
 - Karen Quinn (Marketing Analyst, Finastra)
 
-## A banking service company that enables customers to choose for the best.
+## A banking service company that enables customers to choose for the best. 
+### This application is concentrated for upcoming innovative and creative startups and emerging new businesses
 
-Virtuo Bank is about to connect all the bank from all over the **GLOBE** and recommend the best options, also, this application provides daily financial global news throughout the day
+ Virtuo Bank is about to connect all the bank from all over the **GLOBE** and recommend the best options, also, this application provides daily financial global news throughout the day
 
-Virtuo Bank enables customers to choose the following constrains:
+# Virtuo Bank enables customers to choose the following constrains:
 # Loan 
   - Education
   - Jewellery 
