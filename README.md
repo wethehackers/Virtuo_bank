@@ -3,7 +3,6 @@
 Developed by:
 - Aakash Nair (Team Lead)
 - Shristi Shah (Front - End)
-- Akarshita Tiwary (Front - End)
 - Hina Fathima (Back End)
 - Karen Quinn (Marketing Analyst, Finastra)
 
