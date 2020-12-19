@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="reg_page.css">
+</head>
+<body>
+<h1 style="text-align: center">
+<a href="index.html" style="text-decoration: none; color: #DC143C">VIRTUO BANK</a></h1>
+<div id="reg_div">
+	<form action="login_page.html" action="POST">
+	<table border='0' width='480px' cellpadding='0' cellspacing='0' align='center'>
+		<tr>
+			<td>First Name </td>
+			<td><input type="text" name="f_name" placeholder="First Name" required></td>
+			<br>
+		</tr>
+		<tr>
+			<td>Last Name</td>
+			<td><input type="text" name="l_name" placeholder="Last Name" required></td>
+			<br>
+		</tr>
+		<tr>
+			<td>Date of Birth</td>
+			<td><input type="Date" name="DOB" placeholder="DOB" required></td>
+		</tr>
+		<tr>
+			<td>Country</td>
+			<td><select id="reg_country" name="reg_country" required>
+				<option>Select you country</option>
+    <option value="India">India</option>
+    <option value="UK">UK</option>
+    <option value="USA">USA</option>
+    </select></td>
+    	<br>
+		</tr>
+		<tr>
+			<td>Contact Number </td>
+			<td>
+<input type="tel" id="contact_numb" name="contact_number" placeholder="Phone Number" required>
+			</td>
+		</tr>
+		<tr>
+			<td>E-mail</td>
+			<td><input type="email" name="reg_mail" placeholder="Enter your email" required></td>
+			<br>
+		</tr>
+		<tr>
+			<td>Password</td>
+			<td><input type="password" name="pass" id="pass" placeholder="Password" minlength="8" maxlength="16"></td><br>
+		</tr>
+		<tr>
+			<td>Confirm Password</td>
+			<td><input type="password" name="conf_pass" id="conf_pass" placeholder="Confirm Password" minlength="8" maxlength="16"></td>
+			<br>
+		</tr>
+		<tr>
+	<td><input type="submit" name="reg_button" value="Register" style="margin: 0 auto; width: 100px;color: white;background-color: pink" id="btn" ></td>
+		</tr>
+	</table>
+</form>
+</div>
+
+<div class="footer">
+	<p>Virtuo Bank
+		<a href="index.html">
+		<img src="Logos/Logo13.png" width="40" height="20" alt="Finastra" title="finastra.com"> </a></p>
+</div>
+
+</body>
+</html>

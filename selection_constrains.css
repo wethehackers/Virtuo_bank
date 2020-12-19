@@ -1,0 +1,32 @@
+a
+{
+	text-decoration: none;
+	display: block;
+	font-size: 40px;
+	font-family: Arbutus;
+	color: #DC143C;
+}
+
+
+a:hover
+{
+	color:white;
+}
+
+.loancountries
+{
+	background-color: blue;
+	width: 50%;
+}
+
+.emicountries
+{
+	background-color: blue;
+	width: 50%;
+}
+.insurancecountries
+{
+	background-color: blue;
+	width: 50%;
+}
+
