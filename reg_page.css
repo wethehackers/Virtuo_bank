@@ -1,0 +1,22 @@
+
+
+#reg_div
+{
+	width: 350px;
+	height: 300px;
+	margin: 0 auto;
+}
+
+
+
+.footer
+{
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: #DC143C;
+	color: white;
+	text-align: center;
+}
+
